@@ -1,4 +1,5 @@
-title: The Day Dreamer
+---
+title: "The Day Dreamer"
 theme: minima
 author: GitHub User
 email: neha62399877@github.com
@@ -9,3 +10,4 @@ twitter_username: your-twitter-handle # DO NOT include the @ character, or else 
 github_username: https://github.com/neha2921  # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: false # set to false to remove excerpts on the homepage
+---
